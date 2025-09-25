@@ -29,3 +29,11 @@ My name is **Kihyun Kim**, and I am currently an undergraduate student in the **
 My research interests lie in **tRNA modification mechanisms, their roles in disease, and potential therapeutic approaches**. I place strong emphasis on **rigorous troubleshooting and experimental quality control** in my work.  
 
 From **May 2022 to February 2024**, I served in the **Republic of Korea Air Force as a chemical specialist**, after which I studied for one year as an **exchange student at the University of Tokyo**. I am fluent in **Korean, English, and Japanese**, and I enjoy learning languages from diverse cultures.  
+
+# Education
+
+| Period | Institution | Degree / Program |
+|--------|-------------|------------------|
+| 2026 – | The University of Tokyo | Graduate Research (MEXT Scholar) |
+| 2019 – 2026 (expected) | POSTECH (Pohang University of Science and Technology) | B.S. in Chemical Engineering |
+| 2016 – 2019 | SASA(Sejong Academy of Science and Arts | 1-year early admission |
