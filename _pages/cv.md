@@ -11,4 +11,7 @@ toc:
 ---
 ## Curriculum Vitae
 
-You can download my CV here: [Download CV (PDF)](/assets/CV.pdf)
+📄 [Download CV (PDF)](/assets/CV.pdf)
+
+<embed src="/assets/CV.pdf" type="application/pdf" width="100%" height="800px" />
+
