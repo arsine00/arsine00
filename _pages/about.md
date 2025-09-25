@@ -23,7 +23,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-#Kihyun Kim
+# Kihyun Kim
 
 My name is **Kihyun Kim**, and I am currently an undergraduate student in the **Department of Chemical Engineering at POSTECH**, conducting research in the [Synthetic Biology Lab](https://sbl.postech.ac.kr/sblmanager/index.do) under the supervision of [Prof. Jeong Wook Lee](https://scholar.google.com/citations?user=Mu7NXDwAAAAJ&hl=en). I am expected to graduate with a **B.S. in Chemical Engineering in February 2026**. Starting in **April 2026**, I will join [Prof. Tsutomu Suzuki](https://scholar.google.com/citations?user=sx1JKE8AAAAJ&hl=ja)’s [laboratory at the University of Tokyo](https://rna.chem.t.u-tokyo.ac.jp/en/index.html) as a recipient of the **MEXT scholarship**.  
 
