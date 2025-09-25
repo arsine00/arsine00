@@ -8,7 +8,6 @@ profile:
   align: right
   image: profileimg.jpg
   more_info: >
-    <p>555 your office number</p>
     <p>77, Cheongam-ro, Nam-gu, Pohang-si, Gyeongsangbuk-do, Republic of Korea</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
