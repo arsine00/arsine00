@@ -9,8 +9,7 @@ profile:
   image: profileimg.jpg
   more_info: >
     <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>77, Cheongam-ro, Nam-gu, Pohang-si, Gyeongsangbuk-do, Republic of Korea</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,8 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My name is **Kihyun Kim**, and I am currently an undergraduate student in the **Department of Chemical Engineering at POSTECH**, conducting research in the [Synthetic Biology Lab](https://sbl.postech.ac.kr/sblmanager/index.do) under the supervision of [Prof. Jeong Wook Lee](https://scholar.google.com/citations?user=Mu7NXDwAAAAJ&hl=en). I am expected to graduate with a **B.S. in Chemical Engineering in February 2026**. Starting in **April 2026**, I will join [Prof. Tsutomu Suzuki](https://scholar.google.com/citations?user=sx1JKE8AAAAJ&hl=ja)’s [laboratory at the University of Tokyo](https://rna.chem.t.u-tokyo.ac.jp/en/index.html) as a recipient of the **MEXT scholarship**.  
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests lie in **tRNA modification mechanisms, their roles in disease, and potential therapeutic approaches**. I place strong emphasis on **rigorous troubleshooting and experimental quality control** in my work.  
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+From **May 2022 to February 2024**, I served in the **Republic of Korea Air Force as a chemical specialist**, after which I studied for one year as an **exchange student at the University of Tokyo**. I am fluent in **Korean, English, and Japanese**, and I enjoy learning languages from diverse cultures.  
